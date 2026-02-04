@@ -42,3 +42,10 @@ This project uses AWS Free Tier services and does not incur significant cost.
 
 ## Conclusion
 This project demonstrates an event-driven AWS architecture for monitoring EC2 instance state changes and sending notifications.
+
+## Screenshots
+- SNS Topic configuration
+- SNS email subscription (Confirmed)
+- EventBridge rule for EC2 state change
+- Email notification received after stopping EC2
+
